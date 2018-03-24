@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="title">Dollar To INR</string>
+    <string name="text">Enter Currency in Dollar</string>
+</resources>
