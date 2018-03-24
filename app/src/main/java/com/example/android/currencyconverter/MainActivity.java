@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else {
         Double dollarAmount = Double.parseDouble(convert.getText().toString());
-        Double inr=dollarAmount*64;
+        Double inr=dollarAmount*65.01;
         Toast.makeText(MainActivity.this,"Rs "+inr,Toast.LENGTH_LONG).show();
     }}
 }
